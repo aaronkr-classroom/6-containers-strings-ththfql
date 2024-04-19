@@ -96,6 +96,7 @@ vector<string> vcat(const vector<string>& left,
 4. out.txt 파일에서 모든 출력을 저장해주세요.
 */
 
+/*
 int main() {
 	string s;
 
@@ -106,3 +107,4 @@ int main() {
 
 	return 0;
 }
+*/
